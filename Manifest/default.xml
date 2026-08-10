@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="git@github.com:xiuxian-123/test.git" />
+    <default revison="main" remote="origin" sync-j="4" />
+    <project path="c_test" name="c_test" revision"main" />
+    <project path="net_test" name="net_test" revision"main" />
+    <project path="uart_test" name="uart_test" revision"main" />
+</manifest>
+
